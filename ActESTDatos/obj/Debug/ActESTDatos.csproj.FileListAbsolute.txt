@@ -1,0 +1,4 @@
+C:\Users\nalle\source\repos\ActESTDatos\ActESTDatos\obj\Debug\ActESTDatos.csprojAssemblyReference.cache
+C:\Users\nalle\source\repos\ActESTDatos\ActESTDatos\obj\Debug\ActESTDatos.Properties.Resources.resources
+C:\Users\nalle\source\repos\ActESTDatos\ActESTDatos\obj\Debug\ActESTDatos.csproj.GenerateResource.cache
+C:\Users\nalle\source\repos\ActESTDatos\ActESTDatos\obj\Debug\ActESTDatos.csproj.CoreCompileInputs.cache
